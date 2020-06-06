@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -43,7 +43,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://ritulsingh.github.io/lutirsingh/
   # youtube: your_username
 
 topics:
